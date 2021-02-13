@@ -17,6 +17,6 @@ As you can already guess from my known languages, nowadays I am more into Headle
 ### Goles of 2021
 🌟 Learn more and more.\
 🌟 Learn React and React Native.\
-🌟 Learn Chrome Extention development.
+🌟 Learn Chrome Extention development.\
 🌟 Try to publish few static GitHub Pages.\
 🌟 Try to start blog.

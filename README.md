@@ -22,5 +22,11 @@ Hello, I am _Avirup Ghosh_, a self-taught web designer. I am a Pharmacist by pro
 🌟 Learn Chrome Extention development.\
 🌟 Contribute More
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrayGalaxy&show_icons=true&layout=compact&title_color=fafbfc&text_color=949da5&icon_color=949da5&bg_color=24292e&border_color=40474d&custom_title=Overview&hide=prs)
+___
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrayGalaxy&show_icons=true&layout=compact&title_color=fafbfc&text_color=949da5&icon_color=949da5&bg_color=0d1117&border_color=40474d&custom_title=Overview&hide=prs)
+
+Follow me if you like the contents.\
+![GitHub followers](https://img.shields.io/github/followers/GrayGalaxy.svg?style=for-the-badge&logo=github&label=Follow)
+
+
 
